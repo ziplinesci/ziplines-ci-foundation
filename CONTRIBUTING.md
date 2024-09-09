@@ -4,7 +4,7 @@ Hey there! We're thrilled that you'd like to contribute to this project. Your he
 
 Contributions to this project are released to the public under the project's open-source license.
 
-Please note that this project is released with a [Contributor Code of Conduct](https://github.com/ziplinesci/Code_Of_Conduct/blob/main/CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
+Please note that this project is released with a [Contributor Code of Conduct](https://github.com/ziplinesci/ziplines-ci-foundation/blob/main/CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
 
 
 ## How to Contribute
